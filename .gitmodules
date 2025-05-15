@@ -1,8 +1,8 @@
 [submodule "ui"]
 	path = ui
-	url = git@github.com:Xiaobai2-2022/test-validator-ui.git
+	url = https://github.com/Xiaobai2-2022/test-validator-ui.git
 	branch = master
 [submodule "server"]
 	path = server
-	url = git@github.com:Xiaobai2-2022/test-validator-server.git
+	url = https://github.com/Xiaobai2-2022/test-validator-server.git
 	branch = master
